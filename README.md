@@ -51,16 +51,3 @@ The project encompasses a full machine learning workflow: in-depth data explorat
 3. scikit-learn
 4. matplotlib
 5. seaborn
-
-
-## References
-
-**Paper 1 (Stacked Ensemble Approach):**
-* **Title:** Housing Price Prediction via Improved Machine Learning Techniques
-* **Source:** *Procedia Computer Science* (2020)
-* **Link:**[ https://www.jaai.net/vol3/JAAI-V3N1-33.pdf]
-
-**Paper 2 (Regularized Regression Focus):**
-* **Title:** House price prediction using machine learning: A case study in Seattle, U.S.
-* **Source:** *ResearchGate* (2024)
-* **Link:** [ https://www.researchgate.net/publication/343241145_Housing_Price_Prediction_via_Improved_Machine_Learning_Techniques]
